@@ -1,4 +1,4 @@
-# 🌍 Explorador de Países — Vue 3 + fetch()
+# Explorador de Países — Vue 3 + fetch()
 
 Proyecto de la materia **Programación Web** (Unidad 3) del Tecnológico Nacional de México.
 Aplicación web construida con **Vue 3** que consume datos de países mediante **fetch()**
@@ -14,7 +14,7 @@ y demuestra el uso de `onMounted()`, `ref()`, `computed()`, `v-for`, `v-if` y `v
 
 ---
 
-## ✅ Requisitos del proyecto y dónde se cumplen
+## Requisitos del proyecto y dónde se cumplen
 
 | Requisito | ¿Dónde se cumple? |
 |---|---|
@@ -31,7 +31,7 @@ y demuestra el uso de `onMounted()`, `ref()`, `computed()`, `v-for`, `v-if` y `v
 
 ---
 
-## 📁 Estructura de carpetas
+## Estructura de carpetas
 
 ```
 explorador-paises-vue3/
@@ -68,46 +68,11 @@ Como se usan módulos ES y `fetch()` de un archivo JSON, no basta con abrir el
 servidor local sencillo:
 
 ```bash
-# Entra a la carpeta del proyecto y ejecuta:
 python3 -m http.server 8000
 # Luego abre en el navegador: http://localhost:8000
 ```
 
 (O usa la extensión "Live Server" de VS Code.)
-
----
-
-## 🚀 Publicación en GitHub Pages
-
-Como el proyecto no requiere compilación, la publicación es directa:
-
-1. Crea un repositorio **público** en GitHub (ej. `explorador-paises-vue3`).
-2. Sube todo el contenido de esta carpeta a la rama principal (`main`):
-   ```bash
-   git init
-   git add .
-   git commit -m "Proyecto: Explorador de Países con Vue 3 y fetch()"
-   git branch -M main
-   git remote add origin https://github.com/TU_USUARIO/explorador-paises-vue3.git
-   git push -u origin main
-   ```
-   > Haz varios commits durante el desarrollo (el rubro pide commits durante el desarrollo).
-3. En GitHub ve a **Settings → Pages**.
-4. En **Source** selecciona: `Deploy from a branch`.
-5. En **Branch** selecciona: `main` y carpeta `/ (root)`. Guarda.
-6. Espera 1–2 minutos. Tu sitio estará en:
-   `https://TU_USUARIO.github.io/explorador-paises-vue3/`
-
-> Todas las rutas del proyecto son relativas (`./js/...`, `./data/...`), por lo que
-> funciona sin cambios sin importar el nombre del repositorio.
-
----
-
-## 📤 Entregables
-
-1. **Link del repositorio GitHub** (código fuente).
-2. **Link del sitio publicado en GitHub Pages**.
-3. **PDF de evidencias** → sigue la guía en `docs/guia-evidencias-pdf.md`.
 
 ---
 
