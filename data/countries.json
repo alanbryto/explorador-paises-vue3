@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 43844000,
+    "cca2": "AF",
+    "flag": "https://flagcdn.com/w320/af.png",
+    "flagEmoji": "🇦🇫"
+  },
+  {
+    "name": "Aland Islands",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 30654,
+    "cca2": "AX",
+    "flag": "https://flagcdn.com/w320/ax.png",
+    "flagEmoji": "🇦🇽"
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 2363314,
+    "cca2": "AL",
+    "flag": "https://flagcdn.com/w320/al.png",
+    "flagEmoji": "🇦🇱"
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 47400000,
+    "cca2": "DZ",
+    "flag": "https://flagcdn.com/w320/dz.png",
+    "flagEmoji": "🇩🇿"
+  },
+  {
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 49710,
+    "cca2": "AS",
+    "flag": "https://flagcdn.com/w320/as.png",
+    "flagEmoji": "🇦🇸"
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 88306,
+    "cca2": "AD",
+    "flag": "https://flagcdn.com/w320/ad.png",
+    "flagEmoji": "🇦🇩"
+  },
+  {
+    "name": "Angola",
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 36170961,
+    "cca2": "AO",
+    "flag": "https://flagcdn.com/w320/ao.png",
+    "flagEmoji": "🇦🇴"
+  },
+  {
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 16010,
+    "cca2": "AI",
+    "flag": "https://flagcdn.com/w320/ai.png",
+    "flagEmoji": "🇦🇮"
+  },
+  {
+    "name": "Antarctica",
+    "capital": "—",
+    "region": "Polar",
+    "subregion": "—",
+    "population": 0,
+    "cca2": "AQ",
+    "flag": "https://flagcdn.com/w320/aq.png",
+    "flagEmoji": "🇦🇶"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 103603,
+    "cca2": "AG",
+    "flag": "https://flagcdn.com/w320/ag.png",
+    "flagEmoji": "🇦🇬"
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 46735004,
+    "cca2": "AR",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "flagEmoji": "🇦🇷"
+  },
+  {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3081100,
+    "cca2": "AM",
+    "flag": "https://flagcdn.com/w320/am.png",
+    "flagEmoji": "🇦🇲"
+  },
+  {
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 107566,
+    "cca2": "AW",
+    "flag": "https://flagcdn.com/w320/aw.png",
+    "flagEmoji": "🇦🇼"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 27400013,
+    "cca2": "AU",
+    "flag": "https://flagcdn.com/w320/au.png",
+    "flagEmoji": "🇦🇺"
+  },
+  {
+    "name": "Austria",
+    "capital": "Vienna",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 9200931,
+    "cca2": "AT",
+    "flag": "https://flagcdn.com/w320/at.png",
+    "flagEmoji": "🇦🇹"
+  },
+  {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 10241722,
+    "cca2": "AZ",
+    "flag": "https://flagcdn.com/w320/az.png",
+    "flagEmoji": "🇦🇿"
+  },
+  {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 1594654,
+    "cca2": "BH",
+    "flag": "https://flagcdn.com/w320/bh.png",
+    "flagEmoji": "🇧🇭"
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 169828911,
+    "cca2": "BD",
+    "flag": "https://flagcdn.com/w320/bd.png",
+    "flagEmoji": "🇧🇩"
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 267800,
+    "cca2": "BB",
+    "flag": "https://flagcdn.com/w320/bb.png",
+    "flagEmoji": "🇧🇧"
+  },
+  {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 9109280,
+    "cca2": "BY",
+    "flag": "https://flagcdn.com/w320/by.png",
+    "flagEmoji": "🇧🇾"
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 11825551,
+    "cca2": "BE",
+    "flag": "https://flagcdn.com/w320/be.png",
+    "flagEmoji": "🇧🇪"
+  },
+  {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 417634,
+    "cca2": "BZ",
+    "flag": "https://flagcdn.com/w320/bz.png",
+    "flagEmoji": "🇧🇿"
+  },
+  {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 13224860,
+    "cca2": "BJ",
+    "flag": "https://flagcdn.com/w320/bj.png",
+    "flagEmoji": "🇧🇯"
+  },
+  {
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 64055,
+    "cca2": "BM",
+    "flag": "https://flagcdn.com/w320/bm.png",
+    "flagEmoji": "🇧🇲"
+  },
+  {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 784043,
+    "cca2": "BT",
+    "flag": "https://flagcdn.com/w320/bt.png",
+    "flagEmoji": "🇧🇹"
+  },
+  {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 11312620,
+    "cca2": "BO",
+    "flag": "https://flagcdn.com/w320/bo.png",
+    "flagEmoji": "🇧🇴"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 26552,
+    "cca2": "BQ",
+    "flag": "https://flagcdn.com/w320/bq.png",
+    "flagEmoji": "🇧🇶"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 3422000,
+    "cca2": "BA",
+    "flag": "https://flagcdn.com/w320/ba.png",
+    "flagEmoji": "🇧🇦"
+  },
+  {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2359609,
+    "cca2": "BW",
+    "flag": "https://flagcdn.com/w320/bw.png",
+    "flagEmoji": "🇧🇼"
+  },
+  {
+    "name": "Bouvet Island",
+    "capital": "—",
+    "region": "Otros",
+    "subregion": "—",
+    "population": 0,
+    "cca2": "BV",
+    "flag": "https://flagcdn.com/w320/bv.png",
+    "flagEmoji": "🇧🇻"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasilia",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 213421037,
+    "cca2": "BR",
+    "flag": "https://flagcdn.com/w320/br.png",
+    "flagEmoji": "🇧🇷"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 0,
+    "cca2": "IO",
+    "flag": "https://flagcdn.com/w320/io.png",
+    "flagEmoji": "🇮🇴"
+  },
+  {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 455500,
+    "cca2": "BN",
+    "flag": "https://flagcdn.com/w320/bn.png",
+    "flagEmoji": "🇧🇳"
+  },
+  {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 6437360,
+    "cca2": "BG",
+    "flag": "https://flagcdn.com/w320/bg.png",
+    "flagEmoji": "🇧🇬"
+  },
+  {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 24070553,
+    "cca2": "BF",
+    "flag": "https://flagcdn.com/w320/bf.png",
+    "flagEmoji": "🇧🇫"
+  },
+  {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 12332788,
+    "cca2": "BI",
+    "flag": "https://flagcdn.com/w320/bi.png",
+    "flagEmoji": "🇧🇮"
+  },
+  {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 17577760,
+    "cca2": "KH",
+    "flag": "https://flagcdn.com/w320/kh.png",
+    "flagEmoji": "🇰🇭"
+  },
+  {
+    "name": "Cameroon",
+    "capital": "Yaounde",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 29442327,
+    "cca2": "CM",
+    "flag": "https://flagcdn.com/w320/cm.png",
+    "flagEmoji": "🇨🇲"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 41548787,
+    "cca2": "CA",
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "flagEmoji": "🇨🇦"
+  },
+  {
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 491233,
+    "cca2": "CV",
+    "flag": "https://flagcdn.com/w320/cv.png",
+    "flagEmoji": "🇨🇻"
+  },
+  {
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 84738,
+    "cca2": "KY",
+    "flag": "https://flagcdn.com/w320/ky.png",
+    "flagEmoji": "🇰🇾"
+  },
+  {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 6470307,
+    "cca2": "CF",
+    "flag": "https://flagcdn.com/w320/cf.png",
+    "flagEmoji": "🇨🇫"
+  },
+  {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 19340757,
+    "cca2": "TD",
+    "flag": "https://flagcdn.com/w320/td.png",
+    "flagEmoji": "🇹🇩"
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 20206953,
+    "cca2": "CL",
+    "flag": "https://flagcdn.com/w320/cl.png",
+    "flagEmoji": "🇨🇱"
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 1408280000,
+    "cca2": "CN",
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "flagEmoji": "🇨🇳"
+  },
+  {
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 1692,
+    "cca2": "CX",
+    "flag": "https://flagcdn.com/w320/cx.png",
+    "flagEmoji": "🇨🇽"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 593,
+    "cca2": "CC",
+    "flag": "https://flagcdn.com/w320/cc.png",
+    "flagEmoji": "🇨🇨"
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 53057212,
+    "cca2": "CO",
+    "flag": "https://flagcdn.com/w320/co.png",
+    "flagEmoji": "🇨🇴"
+  },
+  {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 870038,
+    "cca2": "KM",
+    "flag": "https://flagcdn.com/w320/km.png",
+    "flagEmoji": "🇰🇲"
+  },
+  {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 6142180,
+    "cca2": "CG",
+    "flag": "https://flagcdn.com/w320/cg.png",
+    "flagEmoji": "🇨🇬"
+  },
+  {
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 15040,
+    "cca2": "CK",
+    "flag": "https://flagcdn.com/w320/ck.png",
+    "flagEmoji": "🇨🇰"
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San Jose",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 5309625,
+    "cca2": "CR",
+    "flag": "https://flagcdn.com/w320/cr.png",
+    "flagEmoji": "🇨🇷"
+  },
+  {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 3866233,
+    "cca2": "HR",
+    "flag": "https://flagcdn.com/w320/hr.png",
+    "flagEmoji": "🇭🇷"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 9748007,
+    "cca2": "CU",
+    "flag": "https://flagcdn.com/w320/cu.png",
+    "flagEmoji": "🇨🇺"
+  },
+  {
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 156115,
+    "cca2": "CW",
+    "flag": "https://flagcdn.com/w320/cw.png",
+    "flagEmoji": "🇨🇼"
+  },
+  {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 966400,
+    "cca2": "CY",
+    "flag": "https://flagcdn.com/w320/cy.png",
+    "flagEmoji": "🇨🇾"
+  },
+  {
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 10876875,
+    "cca2": "CZ",
+    "flag": "https://flagcdn.com/w320/cz.png",
+    "flagEmoji": "🇨🇿"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 112832000,
+    "cca2": "CD",
+    "flag": "https://flagcdn.com/w320/cd.png",
+    "flagEmoji": "🇨🇩"
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 6004342,
+    "cca2": "DK",
+    "flag": "https://flagcdn.com/w320/dk.png",
+    "flagEmoji": "🇩🇰"
+  },
+  {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 1066809,
+    "cca2": "DJ",
+    "flag": "https://flagcdn.com/w320/dj.png",
+    "flagEmoji": "🇩🇯"
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 67408,
+    "cca2": "DM",
+    "flag": "https://flagcdn.com/w320/dm.png",
+    "flagEmoji": "🇩🇲"
+  },
+  {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 10771504,
+    "cca2": "DO",
+    "flag": "https://flagcdn.com/w320/do.png",
+    "flagEmoji": "🇩🇴"
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 18103660,
+    "cca2": "EC",
+    "flag": "https://flagcdn.com/w320/ec.png",
+    "flagEmoji": "🇪🇨"
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 107271260,
+    "cca2": "EG",
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "flagEmoji": "🇪🇬"
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 6029976,
+    "cca2": "SV",
+    "flag": "https://flagcdn.com/w320/sv.png",
+    "flagEmoji": "🇸🇻"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 1668768,
+    "cca2": "GQ",
+    "flag": "https://flagcdn.com/w320/gq.png",
+    "flagEmoji": "🇬🇶"
+  },
+  {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 3607000,
+    "cca2": "ER",
+    "flag": "https://flagcdn.com/w320/er.png",
+    "flagEmoji": "🇪🇷"
+  },
+  {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 1369995,
+    "cca2": "EE",
+    "flag": "https://flagcdn.com/w320/ee.png",
+    "flagEmoji": "🇪🇪"
+  },
+  {
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 1235549,
+    "cca2": "SZ",
+    "flag": "https://flagcdn.com/w320/sz.png",
+    "flagEmoji": "🇸🇿"
+  },
+  {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 111652998,
+    "cca2": "ET",
+    "flag": "https://flagcdn.com/w320/et.png",
+    "flagEmoji": "🇪🇹"
+  },
+  {
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 3662,
+    "cca2": "FK",
+    "flag": "https://flagcdn.com/w320/fk.png",
+    "flagEmoji": "🇫🇰"
+  },
+  {
+    "name": "Faroe Islands",
+    "capital": "Torshavn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 55146,
+    "cca2": "FO",
+    "flag": "https://flagcdn.com/w320/fo.png",
+    "flagEmoji": "🇫🇴"
+  },
+  {
+    "name": "Fiji Islands",
+    "capital": "Suva",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 900869,
+    "cca2": "FJ",
+    "flag": "https://flagcdn.com/w320/fj.png",
+    "flagEmoji": "🇫🇯"
+  },
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5645651,
+    "cca2": "FI",
+    "flag": "https://flagcdn.com/w320/fi.png",
+    "flagEmoji": "🇫🇮"
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 68688000,
+    "cca2": "FR",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "flagEmoji": "🇫🇷"
+  },
+  {
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 292354,
+    "cca2": "GF",
+    "flag": "https://flagcdn.com/w320/gf.png",
+    "flagEmoji": "🇬🇫"
+  },
+  {
+    "name": "French Polynesia",
+    "capital": "Papeete",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 279500,
+    "cca2": "PF",
+    "flag": "https://flagcdn.com/w320/pf.png",
+    "flagEmoji": "🇵🇫"
+  },
+  {
+    "name": "French Southern Territories",
+    "capital": "Port-aux-Francais",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 0,
+    "cca2": "TF",
+    "flag": "https://flagcdn.com/w320/tf.png",
+    "flagEmoji": "🇹🇫"
+  },
+  {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 2469296,
+    "cca2": "GA",
+    "flag": "https://flagcdn.com/w320/ga.png",
+    "flagEmoji": "🇬🇦"
+  },
+  {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3704500,
+    "cca2": "GE",
+    "flag": "https://flagcdn.com/w320/ge.png",
+    "flagEmoji": "🇬🇪"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83517030,
+    "cca2": "DE",
+    "flag": "https://flagcdn.com/w320/de.png",
+    "flagEmoji": "🇩🇪"
+  },
+  {
+    "name": "Ghana",
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 33742380,
+    "cca2": "GH",
+    "flag": "https://flagcdn.com/w320/gh.png",
+    "flagEmoji": "🇬🇭"
+  },
+  {
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 38000,
+    "cca2": "GI",
+    "flag": "https://flagcdn.com/w320/gi.png",
+    "flagEmoji": "🇬🇮"
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10400720,
+    "cca2": "GR",
+    "flag": "https://flagcdn.com/w320/gr.png",
+    "flagEmoji": "🇬🇷"
+  },
+  {
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 56542,
+    "cca2": "GL",
+    "flag": "https://flagcdn.com/w320/gl.png",
+    "flagEmoji": "🇬🇱"
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 109021,
+    "cca2": "GD",
+    "flag": "https://flagcdn.com/w320/gd.png",
+    "flagEmoji": "🇬🇩"
+  },
+  {
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 373791,
+    "cca2": "GP",
+    "flag": "https://flagcdn.com/w320/gp.png",
+    "flagEmoji": "🇬🇵"
+  },
+  {
+    "name": "Guam",
+    "capital": "Hagatna",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 153836,
+    "cca2": "GU",
+    "flag": "https://flagcdn.com/w320/gu.png",
+    "flagEmoji": "🇬🇺"
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 18079810,
+    "cca2": "GT",
+    "flag": "https://flagcdn.com/w320/gt.png",
+    "flagEmoji": "🇬🇹"
+  },
+  {
+    "name": "Guernsey",
+    "capital": "St Peter Port",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 64781,
+    "cca2": "GG",
+    "flag": "https://flagcdn.com/w320/gg.png",
+    "flagEmoji": "🇬🇬"
+  },
+  {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 14363931,
+    "cca2": "GN",
+    "flag": "https://flagcdn.com/w320/gn.png",
+    "flagEmoji": "🇬🇳"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 1781308,
+    "cca2": "GW",
+    "flag": "https://flagcdn.com/w320/gw.png",
+    "flagEmoji": "🇬🇼"
+  },
+  {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 772975,
+    "cca2": "GY",
+    "flag": "https://flagcdn.com/w320/gy.png",
+    "flagEmoji": "🇬🇾"
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 11867032,
+    "cca2": "HT",
+    "flag": "https://flagcdn.com/w320/ht.png",
+    "flagEmoji": "🇭🇹"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "capital": "—",
+    "region": "Otros",
+    "subregion": "—",
+    "population": 0,
+    "cca2": "HM",
+    "flag": "https://flagcdn.com/w320/hm.png",
+    "flagEmoji": "🇭🇲"
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 9892632,
+    "cca2": "HN",
+    "flag": "https://flagcdn.com/w320/hn.png",
+    "flagEmoji": "🇭🇳"
+  },
+  {
+    "name": "Hong Kong S.A.R.",
+    "capital": "Hong Kong",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 7527500,
+    "cca2": "HK",
+    "flag": "https://flagcdn.com/w320/hk.png",
+    "flagEmoji": "🇭🇰"
+  },
+  {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 9539502,
+    "cca2": "HU",
+    "flag": "https://flagcdn.com/w320/hu.png",
+    "flagEmoji": "🇭🇺"
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 391810,
+    "cca2": "IS",
+    "flag": "https://flagcdn.com/w320/is.png",
+    "flagEmoji": "🇮🇸"
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1417492000,
+    "cca2": "IN",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "flagEmoji": "🇮🇳"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 284438782,
+    "cca2": "ID",
+    "flag": "https://flagcdn.com/w320/id.png",
+    "flagEmoji": "🇮🇩"
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 85961000,
+    "cca2": "IR",
+    "flag": "https://flagcdn.com/w320/ir.png",
+    "flagEmoji": "🇮🇷"
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 46118793,
+    "cca2": "IQ",
+    "flag": "https://flagcdn.com/w320/iq.png",
+    "flagEmoji": "🇮🇶"
+  },
+  {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5458600,
+    "cca2": "IE",
+    "flag": "https://flagcdn.com/w320/ie.png",
+    "flagEmoji": "🇮🇪"
+  },
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 10119400,
+    "cca2": "IL",
+    "flag": "https://flagcdn.com/w320/il.png",
+    "flagEmoji": "🇮🇱"
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 58919230,
+    "cca2": "IT",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "flagEmoji": "🇮🇹"
+  },
+  {
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 29389150,
+    "cca2": "CI",
+    "flag": "https://flagcdn.com/w320/ci.png",
+    "flagEmoji": "🇨🇮"
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 2825544,
+    "cca2": "JM",
+    "flag": "https://flagcdn.com/w320/jm.png",
+    "flagEmoji": "🇯🇲"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 123300000,
+    "cca2": "JP",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "flagEmoji": "🇯🇵"
+  },
+  {
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 103267,
+    "cca2": "JE",
+    "flag": "https://flagcdn.com/w320/je.png",
+    "flagEmoji": "🇯🇪"
+  },
+  {
+    "name": "Jordan",
+    "capital": "Amman",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 11734000,
+    "cca2": "JO",
+    "flag": "https://flagcdn.com/w320/jo.png",
+    "flagEmoji": "🇯🇴"
+  },
+  {
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 20407844,
+    "cca2": "KZ",
+    "flag": "https://flagcdn.com/w320/kz.png",
+    "flagEmoji": "🇰🇿"
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 53330978,
+    "cca2": "KE",
+    "flag": "https://flagcdn.com/w320/ke.png",
+    "flagEmoji": "🇰🇪"
+  },
+  {
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 120740,
+    "cca2": "KI",
+    "flag": "https://flagcdn.com/w320/ki.png",
+    "flagEmoji": "🇰🇮"
+  },
+  {
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 1585566,
+    "cca2": "XK",
+    "flag": "https://flagcdn.com/w320/xk.png",
+    "flagEmoji": "🇽🇰"
+  },
+  {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 4881254,
+    "cca2": "KW",
+    "flag": "https://flagcdn.com/w320/kw.png",
+    "flagEmoji": "🇰🇼"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 7281800,
+    "cca2": "KG",
+    "flag": "https://flagcdn.com/w320/kg.png",
+    "flagEmoji": "🇰🇬"
+  },
+  {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 7647000,
+    "cca2": "LA",
+    "flag": "https://flagcdn.com/w320/la.png",
+    "flagEmoji": "🇱🇦"
+  },
+  {
+    "name": "Latvia",
+    "capital": "Riga",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 1830400,
+    "cca2": "LV",
+    "flag": "https://flagcdn.com/w320/lv.png",
+    "flagEmoji": "🇱🇻"
+  },
+  {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5490000,
+    "cca2": "LB",
+    "flag": "https://flagcdn.com/w320/lb.png",
+    "flagEmoji": "🇱🇧"
+  },
+  {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2116427,
+    "cca2": "LS",
+    "flag": "https://flagcdn.com/w320/ls.png",
+    "flagEmoji": "🇱🇸"
+  },
+  {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 5248621,
+    "cca2": "LR",
+    "flag": "https://flagcdn.com/w320/lr.png",
+    "flagEmoji": "🇱🇷"
+  },
+  {
+    "name": "Libya",
+    "capital": "Tripolis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 7459000,
+    "cca2": "LY",
+    "flag": "https://flagcdn.com/w320/ly.png",
+    "flagEmoji": "🇱🇾"
+  },
+  {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 40900,
+    "cca2": "LI",
+    "flag": "https://flagcdn.com/w320/li.png",
+    "flagEmoji": "🇱🇮"
+  },
+  {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 2894548,
+    "cca2": "LT",
+    "flag": "https://flagcdn.com/w320/lt.png",
+    "flagEmoji": "🇱🇹"
+  },
+  {
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 681973,
+    "cca2": "LU",
+    "flag": "https://flagcdn.com/w320/lu.png",
+    "flagEmoji": "🇱🇺"
+  },
+  {
+    "name": "Macau S.A.R.",
+    "capital": "Macao",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 685900,
+    "cca2": "MO",
+    "flag": "https://flagcdn.com/w320/mo.png",
+    "flagEmoji": "🇲🇴"
+  },
+  {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 31727042,
+    "cca2": "MG",
+    "flag": "https://flagcdn.com/w320/mg.png",
+    "flagEmoji": "🇲🇬"
+  },
+  {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 20734262,
+    "cca2": "MW",
+    "flag": "https://flagcdn.com/w320/mw.png",
+    "flagEmoji": "🇲🇼"
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 34231700,
+    "cca2": "MY",
+    "flag": "https://flagcdn.com/w320/my.png",
+    "flagEmoji": "🇲🇾"
+  },
+  {
+    "name": "Maldives",
+    "capital": "Male",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 515132,
+    "cca2": "MV",
+    "flag": "https://flagcdn.com/w320/mv.png",
+    "flagEmoji": "🇲🇻"
+  },
+  {
+    "name": "Mali",
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 22395489,
+    "cca2": "ML",
+    "flag": "https://flagcdn.com/w320/ml.png",
+    "flagEmoji": "🇲🇱"
+  },
+  {
+    "name": "Malta",
+    "capital": "Valletta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 574250,
+    "cca2": "MT",
+    "flag": "https://flagcdn.com/w320/mt.png",
+    "flagEmoji": "🇲🇹"
+  },
+  {
+    "name": "Man (Isle of)",
+    "capital": "Douglas, Isle of Man",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 84530,
+    "cca2": "IM",
+    "flag": "https://flagcdn.com/w320/im.png",
+    "flagEmoji": "🇮🇲"
+  },
+  {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 42418,
+    "cca2": "MH",
+    "flag": "https://flagcdn.com/w320/mh.png",
+    "flagEmoji": "🇲🇭"
+  },
+  {
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 339897,
+    "cca2": "MQ",
+    "flag": "https://flagcdn.com/w320/mq.png",
+    "flagEmoji": "🇲🇶"
+  },
+  {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 4927532,
+    "cca2": "MR",
+    "flag": "https://flagcdn.com/w320/mr.png",
+    "flagEmoji": "🇲🇷"
+  },
+  {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 1243741,
+    "cca2": "MU",
+    "flag": "https://flagcdn.com/w320/mu.png",
+    "flagEmoji": "🇲🇺"
+  },
+  {
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 337011,
+    "cca2": "YT",
+    "flag": "https://flagcdn.com/w320/yt.png",
+    "flagEmoji": "🇾🇹"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Ciudad de México",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 130575786,
+    "cca2": "MX",
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "flagEmoji": "🇲🇽"
+  },
+  {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 105564,
+    "cca2": "FM",
+    "flag": "https://flagcdn.com/w320/fm.png",
+    "flagEmoji": "🇫🇲"
+  },
+  {
+    "name": "Moldova",
+    "capital": "Chisinau",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 2381300,
+    "cca2": "MD",
+    "flag": "https://flagcdn.com/w320/md.png",
+    "flagEmoji": "🇲🇩"
+  },
+  {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 38423,
+    "cca2": "MC",
+    "flag": "https://flagcdn.com/w320/mc.png",
+    "flagEmoji": "🇲🇨"
+  },
+  {
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 3544835,
+    "cca2": "MN",
+    "flag": "https://flagcdn.com/w320/mn.png",
+    "flagEmoji": "🇲🇳"
+  },
+  {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 623327,
+    "cca2": "ME",
+    "flag": "https://flagcdn.com/w320/me.png",
+    "flagEmoji": "🇲🇪"
+  },
+  {
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 4386,
+    "cca2": "MS",
+    "flag": "https://flagcdn.com/w320/ms.png",
+    "flagEmoji": "🇲🇸"
+  },
+  {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 36828330,
+    "cca2": "MA",
+    "flag": "https://flagcdn.com/w320/ma.png",
+    "flagEmoji": "🇲🇦"
+  },
+  {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 34090466,
+    "cca2": "MZ",
+    "flag": "https://flagcdn.com/w320/mz.png",
+    "flagEmoji": "🇲🇿"
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Nay Pyi Taw",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 51316756,
+    "cca2": "MM",
+    "flag": "https://flagcdn.com/w320/mm.png",
+    "flagEmoji": "🇲🇲"
+  },
+  {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 3022401,
+    "cca2": "NA",
+    "flag": "https://flagcdn.com/w320/na.png",
+    "flagEmoji": "🇳🇦"
+  },
+  {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 11680,
+    "cca2": "NR",
+    "flag": "https://flagcdn.com/w320/nr.png",
+    "flagEmoji": "🇳🇷"
+  },
+  {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 29911840,
+    "cca2": "NP",
+    "flag": "https://flagcdn.com/w320/np.png",
+    "flagEmoji": "🇳🇵"
+  },
+  {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 18080943,
+    "cca2": "NL",
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "flagEmoji": "🇳🇱"
+  },
+  {
+    "name": "New Caledonia",
+    "capital": "Noumea",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 264596,
+    "cca2": "NC",
+    "flag": "https://flagcdn.com/w320/nc.png",
+    "flagEmoji": "🇳🇨"
+  },
+  {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 5324700,
+    "cca2": "NZ",
+    "flag": "https://flagcdn.com/w320/nz.png",
+    "flagEmoji": "🇳🇿"
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 6803886,
+    "cca2": "NI",
+    "flag": "https://flagcdn.com/w320/ni.png",
+    "flagEmoji": "🇳🇮"
+  },
+  {
+    "name": "Niger",
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 26312034,
+    "cca2": "NE",
+    "flag": "https://flagcdn.com/w320/ne.png",
+    "flagEmoji": "🇳🇪"
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 223800000,
+    "cca2": "NG",
+    "flag": "https://flagcdn.com/w320/ng.png",
+    "flagEmoji": "🇳🇬"
+  },
+  {
+    "name": "Niue",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 1681,
+    "cca2": "NU",
+    "flag": "https://flagcdn.com/w320/nu.png",
+    "flagEmoji": "🇳🇺"
+  },
+  {
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 2188,
+    "cca2": "NF",
+    "flag": "https://flagcdn.com/w320/nf.png",
+    "flagEmoji": "🇳🇫"
+  },
+  {
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 25950000,
+    "cca2": "KP",
+    "flag": "https://flagcdn.com/w320/kp.png",
+    "flagEmoji": "🇰🇵"
+  },
+  {
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 1826247,
+    "cca2": "MK",
+    "flag": "https://flagcdn.com/w320/mk.png",
+    "flagEmoji": "🇲🇰"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 47329,
+    "cca2": "MP",
+    "flag": "https://flagcdn.com/w320/mp.png",
+    "flagEmoji": "🇲🇵"
+  },
+  {
+    "name": "Norway",
+    "capital": "Oslo",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5606944,
+    "cca2": "NO",
+    "flag": "https://flagcdn.com/w320/no.png",
+    "flagEmoji": "🇳🇴"
+  },
+  {
+    "name": "Oman",
+    "capital": "Muscat",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5306976,
+    "cca2": "OM",
+    "flag": "https://flagcdn.com/w320/om.png",
+    "flagEmoji": "🇴🇲"
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 241499431,
+    "cca2": "PK",
+    "flag": "https://flagcdn.com/w320/pk.png",
+    "flagEmoji": "🇵🇰"
+  },
+  {
+    "name": "Palau",
+    "capital": "Melekeok",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 16733,
+    "cca2": "PW",
+    "flag": "https://flagcdn.com/w320/pw.png",
+    "flagEmoji": "🇵🇼"
+  },
+  {
+    "name": "Palestine",
+    "capital": "East Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5483450,
+    "cca2": "PS",
+    "flag": "https://flagcdn.com/w320/ps.png",
+    "flagEmoji": "🇵🇸"
+  },
+  {
+    "name": "Panama",
+    "capital": "Panama City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 4064780,
+    "cca2": "PA",
+    "flag": "https://flagcdn.com/w320/pa.png",
+    "flagEmoji": "🇵🇦"
+  },
+  {
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 11781559,
+    "cca2": "PG",
+    "flag": "https://flagcdn.com/w320/pg.png",
+    "flagEmoji": "🇵🇬"
+  },
+  {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 6109644,
+    "cca2": "PY",
+    "flag": "https://flagcdn.com/w320/py.png",
+    "flagEmoji": "🇵🇾"
+  },
+  {
+    "name": "Peru",
+    "capital": "Lima",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 34350244,
+    "cca2": "PE",
+    "flag": "https://flagcdn.com/w320/pe.png",
+    "flagEmoji": "🇵🇪"
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 114123600,
+    "cca2": "PH",
+    "flag": "https://flagcdn.com/w320/ph.png",
+    "flagEmoji": "🇵🇭"
+  },
+  {
+    "name": "Pitcairn Island",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 35,
+    "cca2": "PN",
+    "flag": "https://flagcdn.com/w320/pn.png",
+    "flagEmoji": "🇵🇳"
+  },
+  {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 37401000,
+    "cca2": "PL",
+    "flag": "https://flagcdn.com/w320/pl.png",
+    "flagEmoji": "🇵🇱"
+  },
+  {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10749635,
+    "cca2": "PT",
+    "flag": "https://flagcdn.com/w320/pt.png",
+    "flagEmoji": "🇵🇹"
+  },
+  {
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 3203295,
+    "cca2": "PR",
+    "flag": "https://flagcdn.com/w320/pr.png",
+    "flagEmoji": "🇵🇷"
+  },
+  {
+    "name": "Qatar",
+    "capital": "Doha",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3173024,
+    "cca2": "QA",
+    "flag": "https://flagcdn.com/w320/qa.png",
+    "flagEmoji": "🇶🇦"
+  },
+  {
+    "name": "Reunion",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 896175,
+    "cca2": "RE",
+    "flag": "https://flagcdn.com/w320/re.png",
+    "flagEmoji": "🇷🇪"
+  },
+  {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 19036031,
+    "cca2": "RO",
+    "flag": "https://flagcdn.com/w320/ro.png",
+    "flagEmoji": "🇷🇴"
+  },
+  {
+    "name": "Russia",
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 146028325,
+    "cca2": "RU",
+    "flag": "https://flagcdn.com/w320/ru.png",
+    "flagEmoji": "🇷🇺"
+  },
+  {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 14104969,
+    "cca2": "RW",
+    "flag": "https://flagcdn.com/w320/rw.png",
+    "flagEmoji": "🇷🇼"
+  },
+  {
+    "name": "Saint Helena",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 5651,
+    "cca2": "SH",
+    "flag": "https://flagcdn.com/w320/sh.png",
+    "flagEmoji": "🇸🇭"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 51320,
+    "cca2": "KN",
+    "flag": "https://flagcdn.com/w320/kn.png",
+    "flagEmoji": "🇰🇳"
+  },
+  {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 184100,
+    "cca2": "LC",
+    "flag": "https://flagcdn.com/w320/lc.png",
+    "flagEmoji": "🇱🇨"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 5819,
+    "cca2": "PM",
+    "flag": "https://flagcdn.com/w320/pm.png",
+    "flagEmoji": "🇵🇲"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 110872,
+    "cca2": "VC",
+    "flag": "https://flagcdn.com/w320/vc.png",
+    "flagEmoji": "🇻🇨"
+  },
+  {
+    "name": "Saint-Barthelemy",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 10562,
+    "cca2": "BL",
+    "flag": "https://flagcdn.com/w320/bl.png",
+    "flagEmoji": "🇧🇱"
+  },
+  {
+    "name": "Saint-Martin (French part)",
+    "capital": "Marigot",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 31496,
+    "cca2": "MF",
+    "flag": "https://flagcdn.com/w320/mf.png",
+    "flagEmoji": "🇲🇫"
+  },
+  {
+    "name": "Samoa",
+    "capital": "Apia",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 205557,
+    "cca2": "WS",
+    "flag": "https://flagcdn.com/w320/ws.png",
+    "flagEmoji": "🇼🇸"
+  },
+  {
+    "name": "San Marino",
+    "capital": "San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 34132,
+    "cca2": "SM",
+    "flag": "https://flagcdn.com/w320/sm.png",
+    "flagEmoji": "🇸🇲"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "capital": "Sao Tome",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 209607,
+    "cca2": "ST",
+    "flag": "https://flagcdn.com/w320/st.png",
+    "flagEmoji": "🇸🇹"
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 35300280,
+    "cca2": "SA",
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "flagEmoji": "🇸🇦"
+  },
+  {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 18593258,
+    "cca2": "SN",
+    "flag": "https://flagcdn.com/w320/sn.png",
+    "flagEmoji": "🇸🇳"
+  },
+  {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 6567783,
+    "cca2": "RS",
+    "flag": "https://flagcdn.com/w320/rs.png",
+    "flagEmoji": "🇷🇸"
+  },
+  {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 122729,
+    "cca2": "SC",
+    "flag": "https://flagcdn.com/w320/sc.png",
+    "flagEmoji": "🇸🇨"
+  },
+  {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 9077691,
+    "cca2": "SL",
+    "flag": "https://flagcdn.com/w320/sl.png",
+    "flagEmoji": "🇸🇱"
+  },
+  {
+    "name": "Singapore",
+    "capital": "Singapur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 6036900,
+    "cca2": "SG",
+    "flag": "https://flagcdn.com/w320/sg.png",
+    "flagEmoji": "🇸🇬"
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 41349,
+    "cca2": "SX",
+    "flag": "https://flagcdn.com/w320/sx.png",
+    "flagEmoji": "🇸🇽"
+  },
+  {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 5413813,
+    "cca2": "SK",
+    "flag": "https://flagcdn.com/w320/sk.png",
+    "flagEmoji": "🇸🇰"
+  },
+  {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 2130638,
+    "cca2": "SI",
+    "flag": "https://flagcdn.com/w320/si.png",
+    "flagEmoji": "🇸🇮"
+  },
+  {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 750325,
+    "cca2": "SB",
+    "flag": "https://flagcdn.com/w320/sb.png",
+    "flagEmoji": "🇸🇧"
+  },
+  {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 19655000,
+    "cca2": "SO",
+    "flag": "https://flagcdn.com/w320/so.png",
+    "flagEmoji": "🇸🇴"
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 63100945,
+    "cca2": "ZA",
+    "flag": "https://flagcdn.com/w320/za.png",
+    "flagEmoji": "🇿🇦"
+  },
+  {
+    "name": "South Georgia",
+    "capital": "Grytviken",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 0,
+    "cca2": "GS",
+    "flag": "https://flagcdn.com/w320/gs.png",
+    "flagEmoji": "🇬🇸"
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 51159889,
+    "cca2": "KR",
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "flagEmoji": "🇰🇷"
+  },
+  {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 15786898,
+    "cca2": "SS",
+    "flag": "https://flagcdn.com/w320/ss.png",
+    "flagEmoji": "🇸🇸"
+  },
+  {
+    "name": "Spain",
+    "capital": "Madrid",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 49315949,
+    "cca2": "ES",
+    "flag": "https://flagcdn.com/w320/es.png",
+    "flagEmoji": "🇪🇸"
+  },
+  {
+    "name": "Sri Lanka",
+    "capital": "Colombo",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 21763170,
+    "cca2": "LK",
+    "flag": "https://flagcdn.com/w320/lk.png",
+    "flagEmoji": "🇱🇰"
+  },
+  {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 51662000,
+    "cca2": "SD",
+    "flag": "https://flagcdn.com/w320/sd.png",
+    "flagEmoji": "🇸🇩"
+  },
+  {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 616500,
+    "cca2": "SR",
+    "flag": "https://flagcdn.com/w320/sr.png",
+    "flagEmoji": "🇸🇷"
+  },
+  {
+    "name": "Svalbard and Jan Mayen Islands",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 0,
+    "cca2": "SJ",
+    "flag": "https://flagcdn.com/w320/sj.png",
+    "flagEmoji": "🇸🇯"
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 10596652,
+    "cca2": "SE",
+    "flag": "https://flagcdn.com/w320/se.png",
+    "flagEmoji": "🇸🇪"
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 9082848,
+    "cca2": "CH",
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "flagEmoji": "🇨🇭"
+  },
+  {
+    "name": "Syria",
+    "capital": "Damascus",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 25620000,
+    "cca2": "SY",
+    "flag": "https://flagcdn.com/w320/sy.png",
+    "flagEmoji": "🇸🇾"
+  },
+  {
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 23337936,
+    "cca2": "TW",
+    "flag": "https://flagcdn.com/w320/tw.png",
+    "flagEmoji": "🇹🇼"
+  },
+  {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 10499000,
+    "cca2": "TJ",
+    "flag": "https://flagcdn.com/w320/tj.png",
+    "flagEmoji": "🇹🇯"
+  },
+  {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 68153004,
+    "cca2": "TZ",
+    "flag": "https://flagcdn.com/w320/tz.png",
+    "flagEmoji": "🇹🇿"
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 65859640,
+    "cca2": "TH",
+    "flag": "https://flagcdn.com/w320/th.png",
+    "flagEmoji": "🇹🇭"
+  },
+  {
+    "name": "The Bahamas",
+    "capital": "Nassau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 398165,
+    "cca2": "BS",
+    "flag": "https://flagcdn.com/w320/bs.png",
+    "flagEmoji": "🇧🇸"
+  },
+  {
+    "name": "The Gambia",
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 2422712,
+    "cca2": "GM",
+    "flag": "https://flagcdn.com/w320/gm.png",
+    "flagEmoji": "🇬🇲"
+  },
+  {
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 1391221,
+    "cca2": "TL",
+    "flag": "https://flagcdn.com/w320/tl.png",
+    "flagEmoji": "🇹🇱"
+  },
+  {
+    "name": "Togo",
+    "capital": "Lome",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 8095498,
+    "cca2": "TG",
+    "flag": "https://flagcdn.com/w320/tg.png",
+    "flagEmoji": "🇹🇬"
+  },
+  {
+    "name": "Tokelau",
+    "capital": "—",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 1647,
+    "cca2": "TK",
+    "flag": "https://flagcdn.com/w320/tk.png",
+    "flagEmoji": "🇹🇰"
+  },
+  {
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 100179,
+    "cca2": "TO",
+    "flag": "https://flagcdn.com/w320/to.png",
+    "flagEmoji": "🇹🇴"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 1368333,
+    "cca2": "TT",
+    "flag": "https://flagcdn.com/w320/tt.png",
+    "flagEmoji": "🇹🇹"
+  },
+  {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 11972169,
+    "cca2": "TN",
+    "flag": "https://flagcdn.com/w320/tn.png",
+    "flagEmoji": "🇹🇳"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 85664944,
+    "cca2": "TR",
+    "flag": "https://flagcdn.com/w320/tr.png",
+    "flagEmoji": "🇹🇷"
+  },
+  {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 7057841,
+    "cca2": "TM",
+    "flag": "https://flagcdn.com/w320/tm.png",
+    "flagEmoji": "🇹🇲"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 50894,
+    "cca2": "TC",
+    "flag": "https://flagcdn.com/w320/tc.png",
+    "flagEmoji": "🇹🇨"
+  },
+  {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 10643,
+    "cca2": "TV",
+    "flag": "https://flagcdn.com/w320/tv.png",
+    "flagEmoji": "🇹🇻"
+  },
+  {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 45905417,
+    "cca2": "UG",
+    "flag": "https://flagcdn.com/w320/ug.png",
+    "flagEmoji": "🇺🇬"
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 32862000,
+    "cca2": "UA",
+    "flag": "https://flagcdn.com/w320/ua.png",
+    "flagEmoji": "🇺🇦"
+  },
+  {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 10678556,
+    "cca2": "AE",
+    "flag": "https://flagcdn.com/w320/ae.png",
+    "flagEmoji": "🇦🇪"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 68265209,
+    "cca2": "GB",
+    "flag": "https://flagcdn.com/w320/gb.png",
+    "flagEmoji": "🇬🇧"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 340110988,
+    "cca2": "US",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "flagEmoji": "🇺🇸"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "capital": "—",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 0,
+    "cca2": "UM",
+    "flag": "https://flagcdn.com/w320/um.png",
+    "flagEmoji": "🇺🇲"
+  },
+  {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 3499451,
+    "cca2": "UY",
+    "flag": "https://flagcdn.com/w320/uy.png",
+    "flagEmoji": "🇺🇾"
+  },
+  {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 37859698,
+    "cca2": "UZ",
+    "flag": "https://flagcdn.com/w320/uz.png",
+    "flagEmoji": "🇺🇿"
+  },
+  {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 321409,
+    "cca2": "VU",
+    "flag": "https://flagcdn.com/w320/vu.png",
+    "flagEmoji": "🇻🇺"
+  },
+  {
+    "name": "Vatican City State (Holy See)",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 882,
+    "cca2": "VA",
+    "flag": "https://flagcdn.com/w320/va.png",
+    "flagEmoji": "🇻🇦"
+  },
+  {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 28517000,
+    "cca2": "VE",
+    "flag": "https://flagcdn.com/w320/ve.png",
+    "flagEmoji": "🇻🇪"
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 101343800,
+    "cca2": "VN",
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "flagEmoji": "🇻🇳"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "capital": "Road Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 39471,
+    "cca2": "VG",
+    "flag": "https://flagcdn.com/w320/vg.png",
+    "flagEmoji": "🇻🇬"
+  },
+  {
+    "name": "Virgin Islands (US)",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 87146,
+    "cca2": "VI",
+    "flag": "https://flagcdn.com/w320/vi.png",
+    "flagEmoji": "🇻🇮"
+  },
+  {
+    "name": "Wallis and Futuna Islands",
+    "capital": "Mata Utu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 11620,
+    "cca2": "WF",
+    "flag": "https://flagcdn.com/w320/wf.png",
+    "flagEmoji": "🇼🇫"
+  },
+  {
+    "name": "Western Sahara",
+    "capital": "El-Aaiun",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 600904,
+    "cca2": "EH",
+    "flag": "https://flagcdn.com/w320/eh.png",
+    "flagEmoji": "🇪🇭"
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sanaa",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 32684503,
+    "cca2": "YE",
+    "flag": "https://flagcdn.com/w320/ye.png",
+    "flagEmoji": "🇾🇪"
+  },
+  {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 19693423,
+    "cca2": "ZM",
+    "flag": "https://flagcdn.com/w320/zm.png",
+    "flagEmoji": "🇿🇲"
+  },
+  {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 17073087,
+    "cca2": "ZW",
+    "flag": "https://flagcdn.com/w320/zw.png",
+    "flagEmoji": "🇿🇼"
+  }
+]
